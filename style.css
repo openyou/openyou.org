@@ -57,6 +57,10 @@ a:visited {
     float: right;
 }
 
+.sidebar-image {
+    background: #009900;
+}
+
 .sidebar {
     width : 150px;
     float : left;
