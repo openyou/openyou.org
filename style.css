@@ -24,10 +24,21 @@ a:visited {
     padding-bottom: 10px;
 }
 
+.main-links li:first-letter {
+    color: #009900;
+}
+
 .main-links a {
     font-family: sans-serif;
     font-size: small;
     color: #333;
+    text-decoration: none;
+}
+
+.main-links a:hover {
+    font-family: sans-serif;
+    font-size: small;
+    color: #555;
     text-decoration: none;
 }
 
@@ -64,6 +75,10 @@ a:visited {
     font-weight: normal;    
 }
 
+.sidebar-sub h1:first-letter {
+    color: #009900;
+}
+
 .sidebar-sub ul {
     list-style-type: none;
     align:right;
@@ -84,9 +99,17 @@ a:visited {
     width: 100%;
 }
 
+.post-header a {
+    text-decoration: none;
+}
+
 .post-title {
     display: table-cell;
-    text-align: left;
+    text-align: left;    
+}
+
+.post-title:first-letter {
+    color: #009900;
 }
 
 .post-date {
