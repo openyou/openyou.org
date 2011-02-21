@@ -1,0 +1,95 @@
+body {
+    margin-top:5px;
+}
+
+a {    
+    text-decoration: underline;
+}
+
+a:link {
+    color: #777;
+}
+
+a:visited {
+    color: #888;
+}
+
+.main-links ul {
+    list-style-type: none;
+    align:right;
+}
+
+.main-links li {
+    text-align:right;
+    padding-bottom: 10px;
+}
+
+.main-links a {
+    font-family: sans-serif;
+    font-size: small;
+    color: #333;
+    text-decoration: none;
+}
+
+.openyoupage {
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content {
+    width: 625px;
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    font-size: small;
+    text-align: left;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.sidebar {
+    width : 150px;
+    float : left;
+}
+
+.sidebar-sub {
+    font-size: x-small;
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    color: #111;
+    text-align: right;
+}
+
+.sidebar-sub h1 {
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    font-size: medium;
+    font-weight: normal;    
+}
+
+.sidebar-sub ul {
+    list-style-type: none;
+    align:right;
+}
+
+.sidebar-sub li {
+    margin-bottom: 5px;
+}
+    
+.post {
+    margin-bottom: 25px;
+}
+
+.post-header {
+    display: table;
+    font-size: large;
+    font-weight: bold;
+    width: 100%;
+}
+
+.post-title {
+    display: table-cell;
+    text-align: left;
+}
+
+.post-date {
+    display: table-cell;
+    text-align: right;
+}

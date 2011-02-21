@@ -1,0 +1,48 @@
+<HTML>
+  <HEAD>
+    <link type="text/css" rel="stylesheet" href="http://localhost:9999/style.css" />
+    <TITLE>OpenYou - {{page.title}}</TITLE>
+  </HEAD>
+  <BODY>
+    <div class='openyoupage'>
+      <div class='sidebar'>
+	<IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyou-xsmall.png' />
+	<div class='main-links'>
+	  <UL>
+	    <LI><A HREF='about.html'>ABOUT</A></LI>
+	    <LI><A HREF='index.html'>BLOG</A></LI>
+	    <LI><A HREF='devices.html'>LIBRARIES</A></LI>
+	    <LI><A HREF='apps.html'>APPLICATIONS</A></LI>
+	  </UL>
+	</div>
+	<div class='sidebar-sub'>
+	  <H1>CATAGORIES</H1>
+	  <UL>
+	    <LI>Catagory 1</LI>
+	    <LI>Catagory 2</LI>
+	  </UL>
+	</div>
+	<div class='sidebar-sub'>
+	  <H1>COPYRIGHT</H1>
+	  Copyright 2011 Kyle Machulis/Nonpolynomial Labs
+	</div>
+      </div>
+      <div class='content'>
+	{{content}}
+      </div>
+    </div>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-1413101-10']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </BODY>
+</HTML>

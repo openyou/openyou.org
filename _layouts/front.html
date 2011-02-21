@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% for post in paginator.posts %}
+<div class='post'>
+  <div class='post-header'>
+    <div class='post-title'><A HREF='{{post.url}}'>{{post.title}}</A></div>
+    <div class='post-date'><A HREF='{{post.url}}'>{{post.date | date: "%H:%m:%S %Y-%m-%d"}}</A></div>
+  </div>
+  <div class='post-content'>
+    {{post.content}}
+  </div>
+</div>
+{% endfor %}
+
+<div class="PostNav">
+  <div class="PostPrevious">
+    {% if paginator.next_page %}
+    &lt;&lt; <a href="/page{{ paginator.next_page}}">Older Posts</a>
+    {% endif %}
+  </div>
+  <div class="PostNext">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Newer Posts</a> &gt;&gt;
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}">Newer Posts</a> &gt;&gt;
+    {% endif %}
+    {% endif %}
+  </div>
+</div>

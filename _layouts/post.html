@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class='post'>
+  <div class='post-header'>
+    <div class='post-title'>{{page.title}}</div>
+    <div class='post-date'>{{page.date | date: "%H:%m:%S %Y-%m-%d"}}</div>
+  </div>
+  <div class='post-content'>
+    {{content}}
+  </div>
+</div>
+<div class='post-comments'>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'openyou'; // required: replace example with your forum shortname
+
+    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+    var disqus_identifier = '{{page.title}}-{{page.date | date: "%Y-%m-%d"}}';
+    var disqus_url = 'http://openyou.org/{{page.url}}';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+</div>
