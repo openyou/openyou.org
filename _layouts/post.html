@@ -4,7 +4,10 @@ layout: default
 <div class='post'>
   <div class='post-header'>
     <div class='post-title'>{{page.title}}</div>
-    <div class='post-date'>{{page.date | date: "%H:%m:%S %Y-%m-%d"}}</div>
+    <div class='post-metadata'>
+      <p>{{page.date | date: "%H:%m:%S %Y-%m-%d"}}</p>
+      <p><A HREF='{{ page.url }}#disqus_thread' data-disqus-identifier='{{page.title | replace:" ","_" }}-{{page.date | date: "%Y-%m-%d"}}'>Comments</A></p>
+    </div>
   </div>
   <div class='post-content'>
     {{content}}
@@ -17,8 +20,16 @@ layout: default
     var disqus_shortname = 'openyou'; // required: replace example with your forum shortname
 
     // The following are highly recommended additional parameters. Remove the slashes in front to use.
-    var disqus_identifier = '{{page.title}}-{{page.date | date: "%Y-%m-%d"}}';
+    var disqus_identifier = '{{page.title | replace:" ","_" }}-{{page.date | date: "%Y-%m-%d"}}';
     var disqus_url = 'http://openyou.org/{{page.url}}';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

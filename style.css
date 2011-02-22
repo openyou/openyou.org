@@ -66,6 +66,10 @@ a:visited {
     height:93px;
 }
 
+.sidebar img {
+    border: 0px;
+}
+
 .header-image img {
     background: #009900;
     width:600px;
@@ -127,11 +131,6 @@ a:visited {
 
 .post-title:first-letter {
     color: #009900;
-}
-
-.post-date {
-    display: table-cell;
-    text-align: right;
 }
 
 .post-metadata {
