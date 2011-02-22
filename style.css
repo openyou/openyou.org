@@ -3,11 +3,15 @@ body {
 }
 
 a {    
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:link {
-    color: #777;
+    color: #333;
+}
+
+a:hover {
+    color: #555;
 }
 
 a:visited {
