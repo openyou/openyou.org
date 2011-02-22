@@ -16,7 +16,7 @@ and sports hardware from places like:
 * Wild Divine (<A HREF='http://www.github.com/qdot/liblightstone'>liblightstone</A> - Currently supports old lightstone, working on support for new)
 * Suunto
 * Garmin
-* Fitbit (<A HREF='http://www.github.com/openyou/libfitbit'>libfitbit</A> currently in development)
+* Fitbit (<A HREF='http://www.github.com/qdot/libfitbit'>libfitbit</A> currently in development)
 
 
 And any other place that has interesting hardware that we feel like
@@ -24,7 +24,3 @@ reverse engineering. If you'd like to help out, or have a library
 you've already worked on or open source health blog that you'd like
 linked to from here, please get in touch with me at *kyle at openyou
 dot org*
-
-For code updates (I'll be moving libomron and liblightstone soon), check out:
- 
-*Github Organization Website*: <A HREF='http://www.github.com/openyou'>http://www.github.com/openyou</A> 
