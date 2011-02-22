@@ -7,15 +7,15 @@ a {
 }
 
 a:link {
-    color: #333;
+    color: #666;
 }
 
 a:hover {
-    color: #555;
+    color: #888;
 }
 
 a:visited {
-    color: #888;
+    color: #999;
 }
 
 .main-links ul {
@@ -90,6 +90,7 @@ a:visited {
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
     color: #111;
     text-align: right;
+    margin-bottom: 20px;
 }
 
 .sidebar-sub h1 {
@@ -124,7 +125,14 @@ a:visited {
 
 .post-header a {
     text-decoration: none;
+}
 
+.post-header a:visited {
+    color: #666;
+}
+
+.post-header a:hover {
+    color: #888;
 }
 
 .post-title {
@@ -162,4 +170,33 @@ a:visited {
 .copyright p {
 
     line-height: 0;
+}
+
+.lib-table {
+    font-size: x-small;
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+
+.lib-table th {
+    border: 1px solid #000;
+    font-weight: bold;
+}
+
+.lib-table-info td {
+    vertical-align: top;
+    padding: 5px;
+}
+
+.lib-table-name {
+    font-weight: bold;
+}
+
+.lib-table-spacer {
+    background: #000;
+    height:1px;
+    border:0px;
+    padding:0px;
+    width:100%;
+    margin-top:5px;
+    margin-bottom:5px;
 }
