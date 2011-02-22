@@ -4,34 +4,38 @@
     <TITLE>OpenYou - {{page.title}}</TITLE>
   </HEAD>
   <BODY>
-    <div class='openyoupage'>
-      <div class='sidebar'>
-	<div class='sidebar-image'>	
-	  <IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyoutranssmall.png' />
+    <div class='openyoucontainer'>
+      <div class='openyoupage'>
+	<div class='sidebar'>
+	  <div class='sidebar-header-image'>
+	    <IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyoutranssmall.png' />
+	  </div>
+	  <div class='main-links'>
+	    <UL>
+	      <LI><A HREF='about.html'>ABOUT</A></LI>
+	      <LI><A HREF='index.html'>BLOG</A></LI>
+	      <LI><A HREF='devices.html'>LIBRARIES</A></LI>
+	      <LI><A HREF='apps.html'>APPLICATIONS</A></LI>
+	    </UL>
+	  </div>
+	  <div class='sidebar-sub'>
+	    <H1>CATAGORIES</H1>
+	    <UL>
+	      <LI>Catagory 1</LI>
+	      <LI>Catagory 2</LI>
+	    </UL>
+	  </div>
+	  <div class='sidebar-sub'>
+	  </div>
 	</div>
-	<div class='main-links'>
-	  <UL>
-	    <LI><A HREF='about.html'>ABOUT</A></LI>
-	    <LI><A HREF='index.html'>BLOG</A></LI>
-	    <LI><A HREF='devices.html'>LIBRARIES</A></LI>
-	    <LI><A HREF='apps.html'>APPLICATIONS</A></LI>
-	  </UL>
-	</div>
-	<div class='sidebar-sub'>
-	  <H1>CATAGORIES</H1>
-	  <UL>
-	    <LI>Catagory 1</LI>
-	    <LI>Catagory 2</LI>
-	  </UL>
-	</div>
-	<div class='sidebar-sub'>
-	  <H1>COPYRIGHT</H1>
-	  Copyright 2011 Kyle Machulis/Nonpolynomial Labs
+	<div class='content'>
+	  {{content}}
 	</div>
       </div>
-      <div class='content'>
-	{{content}}
-      </div>
+	<div class='copyright'>
+	  <p>Copyright 2011 <A HREF='http://www.nonpolynomial.com'>Kyle Machulis/Nonpolynomial Labs</A></p>
+	  <p>Logo by <A HREF='http://www.counter-productive.com'>Counter-Productive Productions</A></p>
+	</div>
     </div>
     <script type="text/javascript">
 
