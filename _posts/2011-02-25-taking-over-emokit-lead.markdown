@@ -14,7 +14,7 @@ headset. However, he's been really busy being awesome elsewhere
 lately, so after picking up the decode key for the special pre-release
 unit, writing a C implementation of the library, and fielding some
 support emails, I (Kyle) have finally just gone ahead and taken the
-lead on the
+lead maintainer role on the project.
 
 Many thanks go to [Daeken][2] for the initial work on getting the
 library and community together, and hopefully he'll come back to visit
