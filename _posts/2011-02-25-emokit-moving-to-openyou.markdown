@@ -20,7 +20,11 @@ Many thanks go to [Daeken][2] for the initial work on getting the
 library and community together, and hopefully he'll come back to visit
 at some point.
 
-The next big steps are:
+The new main repo is at
+
+[http://www.github.com/qdot/emokit][1]
+
+Next big steps for the project are:
 
 * Isolating the power level readings
 * Finishing up and formalizing the C library
