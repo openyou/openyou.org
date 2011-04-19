@@ -1,5 +1,5 @@
 --- 
-title: Fitbit and Security, of Lack Thereof
+title: Fitbit and Security, or Lack Thereof
 date: 2011-04-18 21:11:09 -08:00
 layout: post
 ---
@@ -107,18 +107,21 @@ This is one of the things I'm seeing more and more when reverse
 engineering medical hardware. It's not financial information, it's not
 important health information, so why should it be locked down?
 
-While this may seem like a rather light issue ('oh no someone stole my
-steps!'), the implications can get pretty staggering depending on how
-far out we want to cast the timeline. First off, one of the major
-points of the QS movement right now seems to be synergy between
-information stores. Fitbit can now instantly upload a user's data to
-DailyBurn, Google Health, and other sites that the user links to
-it. This is considered a value-add for health hardware, since users
-may have been keeping information elsewhere before whatever device
-they're using existed. This also means that if I have write access to
-one account via the methods described above, I have write access to
-many accounts via account bonding across sites, assume the user has
-created those bonds.
+While this may seem like a rather light issue (other than the password
+in the clear thing, which is 100% inexcusable), with common thought
+being 'woo, someone stole my steps!', the implications can get pretty
+staggering depending on how far out we want to cast the timeline,
+especially in relation to device popularity. 
+
+First off, one of the major marketing points of QS hardware right
+now seems to be synergy between information stores. Fitbit can now
+instantly upload a user's data to DailyBurn, Google Health, and other
+sites that the user links to it. This is considered a value-add for
+health hardware, since users may have been keeping information
+elsewhere before whatever device they're using existed. This also
+means that if I have write access to one account via the methods
+described above, I have write access to many accounts via account
+bonding across sites, assume the user has created those bonds.
 
 To crank the paranoia level another notch, the amount of device
 companies I've talked to that are also looking at linking to health
