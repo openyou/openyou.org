@@ -9,10 +9,11 @@ Coder Project, one of the first "things I can do with all of the
 hardware I'm working on for OpenYou"
 projects. [The talk is now available on YouTube][1].
 
-<CENTER><object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/52Ml_zax4A0?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/52Ml_zax4A0?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object></CENTER>
+<CENTER><object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/52Ml_zax4A0?fs=1&start=767&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/52Ml_zax4A0?fs=1&start=767&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object></CENTER>
 
-(wind above to 12:47 for the start of the talk, as I'm not sure how to
-make the embed start there)
+(if it doesn't happen automatically, wind above to 12:47 for the start
+of my talk, though the whole thing is a great watch if you've got the
+time, as there are lots of QSy topics in it)
 
 For those interested in the talk content,
 [the slides and notes are available as a zip file][2].
