@@ -42,7 +42,7 @@ In terms of what I'd like to see for versions after that:
   anyways. Definitely an ownable area for anyone looking to start up
   an open source project, and there's a ton of code already out
   there...
-* Whatever else people are looking for. Let em know in the
+* Whatever else people are looking for. Let me know in the
   [github issues][7] if you have requests.
 
 [1]: http://www.github.com/qdot/libfitbit
