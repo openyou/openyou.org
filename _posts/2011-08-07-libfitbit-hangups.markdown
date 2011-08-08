@@ -8,6 +8,14 @@ First off, hello to everyone who found us through the MIT Tech Review
 article or Ubuntu Community talk! Been a bit slow around here lately,
 but hoping to get things booted back up.
 
+*UPDATE:* And, 2 hours after I post this, [I fix it myself][4]. I
+wasn't resetting the USB device correctly, which meant we were getting
+weird configuration conflicts from the last session run. Fixing the
+device reset clears this, and libfitbit will now retreive information
+multiple times without having to completely un/replug the key. I'll
+write up a "rest of the things I need to do" post tomorrow to let
+everyone know what's next.
+
 It seems the most requested thing at the moment is a finalized version
 of [libfitbit][1]. Currently, we're at v0.0.1, which was released in
 February and hardly worked. There's been a lot of progress since then,
