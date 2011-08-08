@@ -13,7 +13,12 @@ layout: default
     </div>
   </div>
   <div class='post-content'>
-    {{post.content}}
+    {% if post.excerpt %}
+    {{ post.excerpt }}
+    <a href="{{ post.url }}/#more" class="more-link">Read the rest of this entry</a>
+    {% else %}
+    {{ post.content | mark_excerpt }}
+    {% endif %}
   </div>
 </div>
 {% endfor %}
