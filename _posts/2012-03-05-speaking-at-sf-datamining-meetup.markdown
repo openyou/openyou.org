@@ -1,6 +1,6 @@
 --- 
 title: Speaking at SF Data Mining Meetup - March 6, 2012
-date: 2011-02-20 21:34:09 -08:00
+date: 2012-03-05 14:40:09 -08:00
 layout: post
 ---
 
