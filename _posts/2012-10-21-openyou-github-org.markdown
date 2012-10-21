@@ -37,5 +37,5 @@ interested in working on.
 [1]: http://www.github.com/openyou 
 [2]: http://www.github.com/qdot
 [3]: http://www.github.com/openyou/emokit
-[3]: http://www.github.com/openyou/libfitbit
-[3]: http://www.github.com/openyou/libomron
+[4]: http://www.github.com/openyou/libfitbit
+[5]: http://www.github.com/openyou/libomron
