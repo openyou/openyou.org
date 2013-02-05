@@ -30,7 +30,7 @@ readings into the system.
 
 ## emokit
 
-[http://www.github.com/qdot/emokit](http://www.github.comq/qdot/emokit)
+[http://www.github.com/qdot/emokit](http://www.github.com/qdot/emokit)
 
 As of today, Emokit for the Emotiv EEG sees a major update, at least
 in terms of protocol documentation. We now have access to the sensor
