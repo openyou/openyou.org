@@ -26,3 +26,11 @@ on github, that seemed the best place to store them right now even
 though I certainly have no plans of doing any upgrades to them. The
 master branches will most likely stay as copies of the final versions
 so that others can have a reliable base to fork from.
+
+For developers that want web accessible documentation,
+[SleepStreamOnline](http://www.sleepstreamonline.com/) (a project done
+by a Zeo intern a few years ago) is still around, and has
+[web documentation for the raw data API available](http://www.sleepstreamonline.com/rdl).
+Assuming this ever goes down, developers should also be able to
+generate their own version from the Raw Data API code using
+[sphinx](http://sphinx.pocoo.org/).

@@ -4,6 +4,12 @@ date: 2011-02-27 22:05:09 -08:00
 layout: post
 ---
 
+**UPDATE 2013-06-11:** Zeo has shut down, and all sourceforge/myzeo
+  links no longer work. All of the APIs are now available on the
+  [OpenYou Github account](http://github.com/openyou). For more info,
+  see
+  [the Zeo API OpenYou post](http://www.openyou.org/2013/06/11/zeo-firmware-and-raw-data-api-on-github/)
+
 I recently obtained a [Zeo Sleep Tracker][1], and was ramping up on
 reverse engineering it. It's always nice to find out during your first
 search for that task, that the company themselves released libraries
