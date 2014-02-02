@@ -12,7 +12,7 @@ reverse engineering it. It's always nice to find out during your first
 search for that task, that the company themselves released libraries
 and you don't have to do the work.
 
-![](http://images.nonpolynomial.com/openyou.org/blog/zeo-headband.jpg)
+![](http://images.nonpolynomial.com/openyou.org/blog/2011-02-27-zeo-and-open-source-software-arduino-development/zeo-headband.jpg)
 
 The Zeo is basically a [low sensor count EEG][8], similar to the
 [Neurosky][2] headset, except with a much better form factor to sleep

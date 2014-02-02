@@ -5,7 +5,7 @@ After writing up the [Zeo post yesterday][1], I decided to see if any
 projects involving the Zeo and the arudino or raw streaming libraries
 had happened yet. Sure enough...
 
-![](http://images.nonpolynomial.com/openyou.org/blog/sleepstreamonline.png)
+![](http://images.nonpolynomial.com/openyou.org/blog/2011-02-28-sleep-stream-online/sleepstreamonline.png)
 
 [SleepStreamOnline][2] is a project by one of the interns at Zeo that
 uses the [Zeo Raw Data][3] library in order to stream your sleep data

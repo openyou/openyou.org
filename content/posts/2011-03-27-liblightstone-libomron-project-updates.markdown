@@ -6,7 +6,7 @@ Time for what I do best, more project updates!
 First off, after 3 years of brokenness, liblightstone may see full
 stability for multiple devices in upcoming v1.5.
 
-![](http://images.nonpolynomial.com/nonpolynomial.com/blog/lightstone-hack/wildivine2-m.jpg)
+![](http://images.nonpolynomial.com/openyou.org/blog/2011-03-27-liblightstone-libomron-project-updates/wildivine2-m.jpg)
 
 The lightstone is a USB device that comes with the
 ["Journey to Wild Divine"][1] video game. The point of the game is to
@@ -36,7 +36,7 @@ way to other projects soon.
 [libomron][3] is also going to be seeing some work soon as we try to
 continue it toward v1.0.
 
-<CENTER><A HREF='http://libomron.nonpolynomial.com'><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/omron-pedometer.jpg' /></A></CENTER>
+<CENTER><A HREF='http://libomron.nonpolynomial.com'><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/2011-03-27-liblightstone-libomron-project-updates/omron-pedometer.jpg' /></A></CENTER>
 
 [libomron][3] is a driver for Omron based USB devices, such as the
 

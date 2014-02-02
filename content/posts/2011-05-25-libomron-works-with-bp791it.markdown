@@ -5,7 +5,7 @@ I've received from email from an OpenYou reader who purchased the
 [BP791IT][1], which is the updated version of the HEM790IT Blood
 Pressure Monitor from Omron.
 
-[![](http://images.nonpolynomial.com/openyou.org/blog/bp791it.jpg)](http://www.amazon.com/gp/product/B004H44GB4/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=openyouorg-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=B004H44GB4)
+[![](http://images.nonpolynomial.com/openyou.org/blog/2011-05-25-libomron-works-with-bp791it/bp791it.jpg)](http://www.amazon.com/gp/product/B004H44GB4/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=openyouorg-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=B004H44GB4)
 
 They've verified that this blood pressure monitor does work
 with [OpenYou's libomron library][2]. So, go forth and purchase, knowing

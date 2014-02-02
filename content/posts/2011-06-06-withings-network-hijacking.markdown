@@ -5,7 +5,7 @@ The [Withings Scale][1] is a pretty simple piece of hardware. Set it up
 on your wifi network, weigh yourself, and it instantly sends your
 weight to the Withings website.
 
-![](http://images.nonpolynomial.com/openyou.org/blog/withings.jpg)
+![](http://images.nonpolynomial.com/openyou.org/blog/2011-06-06-withings-network-hijacking/withings.jpg)
 
 Now, as Withings isn't really taking and analyzing a ton of data, it's
 (apparently) fairly trivial to pull all the needed data from their
