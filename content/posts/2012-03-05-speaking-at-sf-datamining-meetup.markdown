@@ -1,8 +1,5 @@
---- 
 title: Speaking at SF Data Mining Meetup - March 6, 2012
 date: 2012-03-05 14:40:09 -08:00
-layout: post
----
 
 Contrary to evidence otherwise, I'm not dead, just got busy with life
 outside blog/qs land for the past 8 months. Am now working on

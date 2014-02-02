@@ -1,8 +1,5 @@
---- 
 title: OpenYou Projects Update
 date: 2012-05-28 21:32:22 -08:00
-layout: post
----
 
 It's really amazing how quick a year can disappear by.
 

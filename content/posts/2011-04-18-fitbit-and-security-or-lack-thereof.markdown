@@ -1,14 +1,11 @@
---- 
 title: Fitbit and Security, or Lack Thereof
 date: 2011-04-18 21:11:09 -08:00
-layout: post
----
 
 One of the libraries that I work on as part of OpenYou is
 [libfitbit][1], an access library for the [FitBit][2] pedometer
 device.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/fitbit2.jpg' /></CENTER>
+![](http://images.nonpolynomial.com/openyou.org/blog/fitbit2.jpg)
 
 It's basically a tiny accelerometer that clips to clothing to work as
 a pedometer. It can also communicate wirelessly with its base station,

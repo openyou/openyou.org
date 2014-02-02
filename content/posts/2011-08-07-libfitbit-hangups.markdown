@@ -1,8 +1,5 @@
---- 
 title: libfitbit Hangups
 date: 2011-08-07 19:34:29 -08:00
-layout: post
----
 
 First off, hello to everyone who found us through the MIT Tech Review
 article or Ubuntu Community talk! Been a bit slow around here lately,

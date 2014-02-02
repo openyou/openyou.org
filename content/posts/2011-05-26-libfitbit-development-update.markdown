@@ -1,8 +1,5 @@
---- 
 title: libfitbit Development Update
 date: 2011-05-26 22:20:12 -08:00
-layout: post
----
 
 There's been a lot of interest in [libfitbit][1] lately, so here's a
 quick update on where I am with development.

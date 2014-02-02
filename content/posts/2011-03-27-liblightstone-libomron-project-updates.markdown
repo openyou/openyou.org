@@ -1,15 +1,12 @@
---- 
 title: Project Updates - Liblightstone and libomron
 date: 2011-03-27 21:25:09 -08:00
-layout: post
----
 
 Time for what I do best, more project updates!
 
 First off, after 3 years of brokenness, liblightstone may see full
 stability for multiple devices in upcoming v1.5.
 
-<CENTER><A HREF='http://liblightstone.nonpolynomial.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/lightstone-hack/wildivine2-m.jpg' /></A></CENTER>
+![](http://images.nonpolynomial.com/nonpolynomial.com/blog/lightstone-hack/wildivine2-m.jpg)
 
 The lightstone is a USB device that comes with the
 ["Journey to Wild Divine"][1] video game. The point of the game is to

@@ -1,8 +1,5 @@
---- 
 title: libfitbit announcement and progress
 date: 2011-02-21 22:48:09 -08:00
-layout: post
----
 
 I've spent the past couple of weeks working on [libfitbit][1],
 library that provides hardware access to the [fitbit health device][2]. The
@@ -10,7 +7,7 @@ current goal of this library is to provide a mechanism to build an
 open source data aggregation client, meaning linux-using fitbit owners
 can finally sync their hardware with the website.
 
-<CENTER><A HREF='http://www.fitbit.com'><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/fitbit.jpg' /></A></CENTER>
+![](http://images.nonpolynomial.com/openyou.org/blog/fitbit.jpg)
 
 For those that aren't familiar, the fitbit is a clip-on accelerometer
 that features a nice little OLED screen and wireless data

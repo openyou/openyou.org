@@ -1,8 +1,5 @@
---- 
 title: Zeo Sleep Tracker and Open Source Software/Arduino Dev
 date: 2011-02-27 22:05:09 -08:00
-layout: post
----
 
 **UPDATE 2013-06-11:** Zeo has shut down, and all sourceforge/myzeo
   links no longer work. All of the APIs are now available on the
@@ -15,7 +12,7 @@ reverse engineering it. It's always nice to find out during your first
 search for that task, that the company themselves released libraries
 and you don't have to do the work.
 
-<CENTER><A HREF='http://www.myzeo.com'><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/zeo-headband.jpg' /></A></CENTER>
+![](http://images.nonpolynomial.com/openyou.org/blog/zeo-headband.jpg)
 
 The Zeo is basically a [low sensor count EEG][8], similar to the
 [Neurosky][2] headset, except with a much better form factor to sleep

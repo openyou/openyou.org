@@ -1,14 +1,11 @@
---- 
 title: Withing Scale Network Hijacking
 date: 2011-06-06 22:01:19 -08:00
-layout: post
----
 
 The [Withings Scale][1] is a pretty simple piece of hardware. Set it up
 on your wifi network, weigh yourself, and it instantly sends your
 weight to the Withings website.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/openyou.org/blog/withings.jpg' /></CENTER>
+![](http://images.nonpolynomial.com/openyou.org/blog/withings.jpg)
 
 Now, as Withings isn't really taking and analyzing a ton of data, it's
 (apparently) fairly trivial to pull all the needed data from their

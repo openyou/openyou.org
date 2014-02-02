@@ -1,8 +1,5 @@
---- 
 title: OpenYou Github Organization
 date: 2012-10-21 15:57:20 -08:00
-layout: post
----
 
 I've finally gone ahead and moved most of my health driver repos, as
 well as the repo holding the openyou.org blog, to the
