@@ -1,5 +1,5 @@
 title: The Quantified Coder and OpenYou Subprojects
-date: 2011-05-13 18:47:12 -08:00
+date: 2011-05-13 18:47:12 
 
 Earlier this week, I spoke at Google I/O on OpenYou and The Quantified
 Coder Project, one of the first "things I can do with all of the

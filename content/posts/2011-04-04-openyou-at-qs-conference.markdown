@@ -1,5 +1,5 @@
 title: OpenYou at the Quantified Self Conference
-date: 2011-04-04 09:21:09 -08:00
+date: 2011-04-04 09:21:09 
 
 ![](http://images.nonpolynomial.com/openyou.org/blog/qs_conf.png)
 

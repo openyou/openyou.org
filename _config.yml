@@ -1,5 +1,0 @@
-markdown: maruku
-permalink: pretty
-paginate: 10
-maruku:
-  use_divs:   true

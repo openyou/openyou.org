@@ -1,5 +1,5 @@
 title: Max/MSP and Bodybugg Resources
-date: 2011-03-13 18:47:09 -08:00
+date: 2011-03-13 18:47:09 
 
 Here's a couple of resources I've found over the past week that've
 been helpful:

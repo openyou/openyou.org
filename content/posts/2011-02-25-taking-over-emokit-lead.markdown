@@ -1,5 +1,5 @@
 title: Taking over Emokit lead
-date: 2011-02-25 15:01:09 -08:00
+date: 2011-02-25 15:01:09 
 
 They say he who dies with the most maintainerships... dies very tired.
 

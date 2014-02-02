@@ -1,7 +1,5 @@
----
-layout: default
 title: About OpenYou.org
----
+slug: about
 
 ## About The Site ##
 

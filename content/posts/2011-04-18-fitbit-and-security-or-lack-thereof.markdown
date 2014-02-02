@@ -1,5 +1,5 @@
 title: Fitbit and Security, or Lack Thereof
-date: 2011-04-18 21:11:09 -08:00
+date: 2011-04-18 21:11:09 
 
 One of the libraries that I work on as part of OpenYou is
 [libfitbit][1], an access library for the [FitBit][2] pedometer

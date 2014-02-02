@@ -1,5 +1,5 @@
 title: Upcoming Projects at OpenYou.org
-date: 2011-03-02 23:07:09 -08:00
+date: 2011-03-02 23:07:09 
 
 Now that the site seems to be up and stable, I'm hoping to get back to
 coding on [libfitbit][1], [emokit][2], and other things. Here's my

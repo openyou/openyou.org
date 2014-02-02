@@ -1,5 +1,5 @@
 title: libomron Verified Working with BP791IT
-date: 2011-05-25 16:31:12 -08:00
+date: 2011-05-25 16:31:12 
 
 I've received from email from an OpenYou reader who purchased the
 [BP791IT][1], which is the updated version of the HEM790IT Blood

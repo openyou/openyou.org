@@ -1,5 +1,5 @@
 title: Withing Scale Network Hijacking
-date: 2011-06-06 22:01:19 -08:00
+date: 2011-06-06 22:01:19 
 
 The [Withings Scale][1] is a pretty simple piece of hardware. Set it up
 on your wifi network, weigh yourself, and it instantly sends your

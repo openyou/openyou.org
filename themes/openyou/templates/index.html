@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+{% for article in articles_page.object_list %}
+{% include "article-short.html" %}
+{% endfor %}
+<div class="PostNav">
+  <div class="PostPrevious">
+    {% if articles_page.has_next() %}
+    <a href="/index{{ articles_page.next_page_number() }}.html">&lt;&lt; Older Posts</a>
+    {% endif %}
+  </div>
+  <div class="PostNext">
+    {% if articles_page.has_previous() %}
+    {% if articles_page.previous_page_number() == 1 %}
+    <a href="/">Newer Posts &gt;&gt;</a>
+    {% else %}
+    <a href="/index{{ articles_page.previous_page_number() }}.html">Newer Posts &gt;&gt;</a>
+    {% endif %}
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

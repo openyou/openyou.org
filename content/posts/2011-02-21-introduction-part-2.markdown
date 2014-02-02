@@ -1,5 +1,5 @@
 title: Basic Site Up
-date: 2011-02-21 22:01:09 -08:00
+date: 2011-02-21 22:01:09 
 
 After a long weekend of work, I believe I've finally got the basic
 layout of the site ready to go. There's still quite a bit of work to

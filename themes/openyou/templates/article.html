@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %} {{ SITENAME }} - {{ article.title }} {% endblock %}
+{% block content %}
+{% include "article-whole.html" %}
+<div class="fullhr"></div>
+<div class="postnav">
+  <div class="postprevious">
+    {% if article.prev_article %}
+    <a href="{{ SITEURL }}/{{ article.prev_article.url }}">&lt;&lt; {{ article.prev_article.title|truncate(50) }}</a>
+    {% endif %}
+  </div>
+  <div class="postnext">
+    {% if article.next_article %}
+    <a href="{{ SITEURL }}/{{ article.next_article.url }}">{{ article.next_article.title|truncate(50) }} &gt;&gt;</a>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

@@ -1,8 +1,5 @@
---- 
 title: Emokit, libfitbit project updates
-date: 2011-03-13 17:27:09 -08:00
-layout: post
----
+date: 2011-03-13 17:27:09 
 
 After both spraining my ankle and getting a cold, I decided it was
 time to spend a weekend on programming self quantification hardware

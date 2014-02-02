@@ -1,19 +1,19 @@
 title: MRI Gradient Coil Replacement
-date: 2011-02-21 22:11:09 -08:00
+date: 2011-02-21 22:11:09 
 
 Earlier this week, I was invited to check out an MRI as it was being
 dismantled for replacement of the [gradient coil][1]. It's rare to see
 an MRI in this state outside of the factory, so I crutched myself down
 to the [UCSF Neuroimaging Lab][2] to check it out.
 
-[![](http://farm6.static.flickr.com/5095/5465339519_cd95ba4e61_m.jpg)](http://www.flickr.com/photos/subgirl13/5465339519/ "Untitled by subgirl13, on Flickr")
+[![](http://farm6.static.flickr.com/5095/5465339519_cd95ba4e61_m.jpg)](http://www.flickr.com/photos/subgirl13/5465339519/)
 
 The gradient coil itself is a big cylinder of wire that weighs about
 3000 pounds. It's an integral part of providing positioning of signals
 coming from whatever is being scanned (which, in this case, is usually
 brains.)
 
-[![](http://farm6.static.flickr.com/5177/5465389055_bb4ec69bcc_m.jpg)](http://www.flickr.com/photos/subgirl13/5465389055/ "Untitled by subgirl13, on Flickr")
+[![](http://farm6.static.flickr.com/5177/5465389055_bb4ec69bcc_m.jpg)](http://www.flickr.com/photos/subgirl13/5465389055/)
 
 Replacing it is not exactly a simple task. The coil had to be rolled
 along a large metal bar and lined up precisely with the opening of the
@@ -31,7 +31,7 @@ materials is right out. This means there's specially built hardware
 all around, including specially built, heavily shielded LCD monitors
 using no magnetic materials.
 
-[![](http://farm6.static.flickr.com/5213/5465355607_cc107325cf_m.jpg)](http://www.flickr.com/photos/subgirl13/5465355607/ "Untitled by subgirl13, on Flickr")
+[![](http://farm6.static.flickr.com/5213/5465355607_cc107325cf_m.jpg)](http://www.flickr.com/photos/subgirl13/5465355607/)
 
 There's more photos of the trip at:
 

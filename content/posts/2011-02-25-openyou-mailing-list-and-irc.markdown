@@ -1,5 +1,5 @@
 title: OpenYou.org Mailing List and IRC channel
-date: 2011-02-25 23:55:09 -08:00
+date: 2011-02-25 23:55:09 
 
 I've put together a google groups mailing list to talk about
 development of open source health hardware/software and drivers for

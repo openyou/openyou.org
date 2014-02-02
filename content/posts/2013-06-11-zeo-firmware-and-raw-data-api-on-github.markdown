@@ -1,5 +1,5 @@
 title: Zeo Firmware and Raw Data API on OpenYou github
-date: 2013-06-11 13:42:20 -08:00
+date: 2013-06-11 13:42:20 
 
 It appears Zeo, which declared it was shutting down in March, has
 taken a scorched earth policy in terms of developer firmware and

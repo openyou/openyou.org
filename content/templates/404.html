@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %} {{ SITENAME }} - Page Not Found {% endblock %}
+{% block piwikdoctitle %} 
+_paq.push(['setDocumentTitle', '404/URL = '+String(document.location.pathname+document.location.search).replace(/\//g,"%2f") + '/From = ' + String(document.referrer).replace(/\//g,"%2f")]); 
+{% endblock %}
+{% block content %}
+<div class="post">
+  <div class="post-content">
+    <h1>Error!</h1>
+
+    The page you're looking for doesn't seem to exist.
+  </div>
+</div>
+{% endblock %}

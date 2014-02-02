@@ -1,5 +1,5 @@
 title: Zeo Sleep Tracker and Open Source Software/Arduino Dev
-date: 2011-02-27 22:05:09 -08:00
+date: 2011-02-27 22:05:09 
 
 **UPDATE 2013-06-11:** Zeo has shut down, and all sourceforge/myzeo
   links no longer work. All of the APIs are now available on the

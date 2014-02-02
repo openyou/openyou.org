@@ -1,5 +1,5 @@
 title: Upcoming Speaking Engagements
-date: 2011-05-13 20:12:12 -08:00
+date: 2011-05-13 20:12:12 
 
 This summer is shaping up to be a busy one...
 

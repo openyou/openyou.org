@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %} {{ SITENAME }} - Posts tagged {{ tag }} {% endblock %}
+{% block content %}
+<div class="post">
+  <div class="postcontent">
+
+<h3>Posts tagged {{ tag }}</h3>
+
+<dl>
+{% for article in dates %}
+    <dt>{{ article.locale_date }}</dt>
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+		<dl><dd class="tag-list-large">Tags: {% for atag in article.tags %}<a href="{{ SITEURL }}/tag/{{ atag }}">{{ atag }}</a> {% endfor %}</dd></dl>
+{% endfor %}
+</dl>
+  </div>
+</div>
+{% endblock %}

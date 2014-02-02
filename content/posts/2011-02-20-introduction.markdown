@@ -1,5 +1,5 @@
 title: Welcome to OpenYou.org
-date: 2011-02-20 21:34:09 -08:00
+date: 2011-02-20 21:34:09 
 
 Obviously, there should probably be some snazzy graphics or a blog
 or something here. However, I've been pretty busy putting together the

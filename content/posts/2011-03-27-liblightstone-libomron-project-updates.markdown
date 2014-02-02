@@ -1,5 +1,5 @@
 title: Project Updates - Liblightstone and libomron
-date: 2011-03-27 21:25:09 -08:00
+date: 2011-03-27 21:25:09 
 
 Time for what I do best, more project updates!
 

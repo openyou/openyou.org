@@ -1,0 +1,7 @@
+{% extends "article-template.html" %}
+{% block article %}
+{{ article.summary }}
+{% if article.summary != article.content %}
+<p class="more-link"><a href='{{SITEURL}}/{{article.url}}'>Read the rest of this entry...</a></p>
+{% endif %}
+{% endblock %}

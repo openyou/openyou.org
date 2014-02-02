@@ -1,5 +1,5 @@
 title: libfitbit announcement and progress
-date: 2011-02-21 22:48:09 -08:00
+date: 2011-02-21 22:48:09 
 
 I've spent the past couple of weeks working on [libfitbit][1],
 library that provides hardware access to the [fitbit health device][2]. The
