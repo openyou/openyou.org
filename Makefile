@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=nonpolynomial.com
 SSH_PORT=22
 SSH_USER=npweb
-SSH_TARGET_DIR=~/slashdong.org
+SSH_TARGET_DIR=~/openyou.org
 
 S3_BUCKET=my_s3_bucket
 
