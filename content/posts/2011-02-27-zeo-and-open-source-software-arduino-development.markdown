@@ -12,7 +12,7 @@ reverse engineering it. It's always nice to find out during your first
 search for that task, that the company themselves released libraries
 and you don't have to do the work.
 
-![](//images/2011-02-27-zeo-and-open-source-software-arduino-development/zeo-headband.jpg)
+![](/images/2011-02-27-zeo-and-open-source-software-arduino-development/zeo-headband.jpg)
 
 The Zeo is basically a [low sensor count EEG][8], similar to the
 [Neurosky][2] headset, except with a much better form factor to sleep
@@ -36,9 +36,9 @@ since they're just looking for resting versus a full spectrum, but it
 could be quite interesting nonetheless, especially to relay something
 like the arduino... [Which someone has apparently already done!][5]
 
-<CENTER><a href="http://www.flickr.com/photos/30874308@N06/5468958406/"
+<CENTER><a href="https://www.flickr.com/photos/30874308@N06/5468958406/"
 title="Zeo with Arduino by eok.gnah, on Flickr"><img
-src="http://farm6.static.flickr.com/5100/5468958406_aa0659a7c3_m.jpg"
+src="https://farm6.static.flickr.com/5100/5468958406_aa0659a7c3_m.jpg"
 width="240" height="179" alt="Zeo with Arduino" /></a></CENTER>
 
 This setup allows you to hook the Zeo directly to an

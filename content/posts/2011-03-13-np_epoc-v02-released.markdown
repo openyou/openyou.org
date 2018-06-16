@@ -1,7 +1,7 @@
 title: np_epoc v0.2 released
 date: 2011-03-13 23:12:09 
 
-[![](http://farm5.static.flickr.com/4013/5080605788_eb455a1daa.jpg)](http://www.flickr.com/photos/qdot76367/5080605788/)
+[![](https://farm5.static.flickr.com/4013/5080605788_eb455a1daa.jpg)](https://www.flickr.com/photos/qdot76367/5080605788/)
 
 v0.2 of the [np_epoc external for Max/MSP and Pd][3] has been released.
 

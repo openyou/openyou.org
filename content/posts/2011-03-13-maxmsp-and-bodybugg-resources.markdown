@@ -4,7 +4,7 @@ date: 2011-03-13 18:47:09
 Here's a couple of resources I've found over the past week that've
 been helpful:
 
-<CENTER><A HREF='http://www.cycling74.com/forums/forum.php?id=12'><IMG SRC='//images/2011-03-13-maxmsp-and-bodybugg-resources/max5.png' /></A></CENTER>
+<CENTER><A HREF='http://www.cycling74.com/forums/forum.php?id=12'><IMG SRC='/images/2011-03-13-maxmsp-and-bodybugg-resources/max5.png' /></A></CENTER>
 
 [Cycling '74][1] has recently added a
 [gear forum to their user forums][2], for support of hardware
@@ -16,7 +16,7 @@ Note that there's also the [openyou google groups][4] that I'm using
 for general discussion of hardware/software, though Max/Pd discussion
 on health programming is more that welcome there too.
 
-<CENTER><A HREF='http://bodybugglinux.blogspot.com/'><IMG SRC='//images/2011-03-13-maxmsp-and-bodybugg-resources/bodybugg.jpg' /></A></CENTER>
+<CENTER><A HREF='http://bodybugglinux.blogspot.com/'><IMG SRC='/images/2011-03-13-maxmsp-and-bodybugg-resources/bodybugg.jpg' /></A></CENTER>
 
 I also started doing some research on the [BodyBugg][5] today, just to
 see if any libraries exist for it yet. It looks like

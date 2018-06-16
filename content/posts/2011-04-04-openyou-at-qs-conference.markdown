@@ -1,7 +1,7 @@
 title: OpenYou at the Quantified Self Conference
 date: 2011-04-04 09:21:09 
 
-![](//images/2011-04-04-openyou-at-qs-conference/qs_conf.png)
+![](/images/2011-04-04-openyou-at-qs-conference/qs_conf.png)
 
 After making it to the [San Francisco Quantified Self meetup][1] last
 week, it became obvious how silly it would be to not show up to the

@@ -43,7 +43,7 @@ In terms of what I'd like to see for versions after that:
   [github issues][7] if you have requests.
 
 [1]: http://www.github.com/qdot/libfitbit
-[2]: http://www.youtube.com/watch?v=0XM3vWJmpfo
+[2]: https://www.youtube.com/watch?v=0XM3vWJmpfo
 [3]: http://www.amazon.com/gp/product/B000UO9KSY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=openyouorg-20&linkCode=as2&camp=217145&creative=399353&creativeASIN=B000UO9KSY
 [4]: http://www.amazon.com/gp/product/B004YJSD20/ref=as_li_tf_tl?ie=UTF8&tag=openyouorg-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=B004YJSD20
 [5]: http://www.quantifiedself.com/conference/

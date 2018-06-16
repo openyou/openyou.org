@@ -7,7 +7,7 @@ current goal of this library is to provide a mechanism to build an
 open source data aggregation client, meaning linux-using fitbit owners
 can finally sync their hardware with the website.
 
-![](//images/2011-02-21-libfitbit/fitbit.jpg)
+![](/images/2011-02-21-libfitbit/fitbit.jpg)
 
 For those that aren't familiar, the fitbit is a clip-on accelerometer
 that features a nice little OLED screen and wireless data
