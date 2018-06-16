@@ -8,23 +8,23 @@
     <link type="text/css" rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments_friendly.css" />
     <link rel="alternate" type="application/rss+xml" href="https://feeds.feedburner.com/openyou" title="OpenYou.org RSS Feed">
     <link rel="alternate" type="application/atom+xml" href="https://feeds.feedburner.com/openyou" title="OpenYou.org RSS (Atom) Feed">
+    <!-- Matomo -->
     <script type="text/javascript">
      var _paq = _paq || [];
-     {% block piwikdoctitle %} 
-     _paq.push(["setDocumentTitle", document.domain + "/" + document.title]); 
-     {% endblock %}
-     _paq.push(["setCookieDomain", "*.openyou.org"]);
-     _paq.push(["trackPageView"]);
-     _paq.push(["enableLinkTracking"]);
-
+     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+     _paq.push(["setCookieDomain", "*.www.openyou.org"]);
+     _paq.push(['trackPageView']);
+     _paq.push(['enableLinkTracking']);
      (function() {
-       var u=(("https:" == document.location.protocol) ? "https" : "http") + "://apps.nonpolynomial.com/p/";
-       _paq.push(["setTrackerUrl", u+"piwik.php"]);
-       _paq.push(["setSiteId", "3"]);
-       var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-       g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+       var u="//matomo.nonpolynomial.com/";
+       _paq.push(['setTrackerUrl', u+'piwik.php']);
+       _paq.push(['setSiteId', '3']);
+       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+       g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
      })();
     </script>
+    <noscript><p><img src="//matomo.nonpolynomial.com/piwik.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
     <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet" />
   </head>
   {% endblock %}
@@ -34,7 +34,7 @@
       <div class='openyoupage'>
 	      <div class='sidebar'>
 	        <div class='sidebar-header-image'>
-	          <A HREF='/'><IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyoutranssmall.png' /></A>
+	          <A HREF='/'><IMG SRC='//images/site/openyoutranssmall.png' /></A>
 	        </div>
 	        <div class='main-links'>
 	          <UL>
@@ -44,7 +44,7 @@
 	        </div>
 	        <div class='sidebar-sub'>
 	          <H1>RSS</H1>
-	          <A HREF='http://feeds.feedburner.com/openyou'><IMG SRC='http://images.nonpolynomial.com/openyou.org/site/rss.png' /></A>
+	          <A HREF='http://feeds.feedburner.com/openyou'><IMG SRC='//images/site/rss.png' /></A>
 	        </div>
 	      </div>
 	      <div class='content'>

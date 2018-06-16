@@ -36,7 +36,7 @@ way to other projects soon.
 [libomron][3] is also going to be seeing some work soon as we try to
 continue it toward v1.0.
 
-<CENTER><A HREF='http://libomron.nonpolynomial.com'><IMG SRC='//images/2011-03-27-liblightstone-libomron-project-updates/omron-pedometer.jpg' /></A></CENTER>
+<CENTER><A HREF='http://github.com/openyou/libomron'><IMG SRC='//images/2011-03-27-liblightstone-libomron-project-updates/omron-pedometer.jpg' /></A></CENTER>
 
 [libomron][3] is a driver for Omron based USB devices, such as the
 
@@ -62,7 +62,7 @@ need for interfacing at the source level, unless you want neat
 progress bars or something. Everyone loves neat progress bars.
 
 [1]: http://www.wilddivine.com
-[2]: http://liblightstone.nonpolynomial.com
-[3]: http://libomron.nonpolynomial.com
+[2]: http://github.com/openyou/liblightstone
+[3]: http://github.com/openyou/libomron
 [4]: http://www.github.com/qdot/emokit
 [5]: http://www.fitbit.com
