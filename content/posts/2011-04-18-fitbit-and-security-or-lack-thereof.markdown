@@ -5,7 +5,7 @@ One of the libraries that I work on as part of OpenYou is
 [libfitbit][1], an access library for the [FitBit][2] pedometer
 device.
 
-![](http://images.nonpolynomial.com/openyou.org/blog/2011-04-18-fitbit-and-security-or-lack-thereof/fitbit2.jpg)
+![](//images/2011-04-18-fitbit-and-security-or-lack-thereof/fitbit2.jpg)
 
 It's basically a tiny accelerometer that clips to clothing to work as
 a pedometer. It can also communicate wirelessly with its base station,
